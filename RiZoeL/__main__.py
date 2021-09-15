@@ -11,7 +11,7 @@ RiZoeL = Client(
     plugins=dict(root="RiZoeL"),
 )
 
-Misery.start()
+RiZoeL.start()
 print("[INFO]: STARTING BOT CLIENT")
 app.start()
 print("[INFO]: STARTING USERBOT CLIENT")
