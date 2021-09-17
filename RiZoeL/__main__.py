@@ -1,6 +1,6 @@
 from pyrogram import Client, idle
 from config import API_ID, API_HASH, BOT_TOKEN
-from RiZoeL.VideoStreaming import app
+from RiZoeL.videoplayer import app
 
 
 RiZ = Client(
