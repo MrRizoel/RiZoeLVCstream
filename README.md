@@ -9,7 +9,7 @@
 
 
 
-## •ᴅᴇᴘʟᴏʏ ᴍɪsᴇʀʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 
+## •ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 
 [Best Way To Host Misery]
 
 <a href="https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZoeLVCstream"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
@@ -18,7 +18,7 @@
 ## •ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MrRizoel/RiZoeLVCstream&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS)
   
- ## **••sᴇᴛᴛɪɴɢ ᴜᴘ ʏᴏᴜʀ ᴍɪsᴇʀʏ••**
+ ## **••sᴇᴛᴛɪɴɢ ᴜᴘ ʏᴏᴜʀ RIZOEL X STREAM••**
 
 - 1.) ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.
 - 2.) ɢɪᴠᴇ ʏᴏᴜʀ ʙᴏᴛ ᴀʟʟ ʀɪɢʜᴛs ᴇxᴇᴄᴘᴛ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ.
